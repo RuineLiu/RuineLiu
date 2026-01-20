@@ -16,23 +16,31 @@ Natural Language Processing and Large Language Models; structured representation
 GPA: 3.58/4.5 (86.8/100), Top 6%, Ranked 11/184
 
 ## Research Experience
-**Flight Delay Prediction using Machine Learning** (Oct 2025 – Dec 2025)  
-Supervisor: Daniel Lopresti  
+**Flight Delay Prediction using Machine Learning** (Oct 2025 – Dec 2025)                                                                                     
+Github Link: https://github.com/RuineLiu/Airplane-Prediction-Delay-Reason-Analysis
+
+Supervisor: Daniel Lopresti  (Lehigh University)
 Built a predictive modeling framework using historical flight, weather, and air traffic data; explored ML algorithms and feature engineering to improve accuracy and identify high-risk flights.
 
 **IPLO: Neural combinatorial optimization for large-scale traveler problems** (Mar 2024 – Jun 2025)  
 Supervisor: Hui Bu  
 Designed a hierarchical neural optimization framework for large-scale asymmetric TSP; partitioned instances with a GNN module and applied adaptive constructive solvers; achieved ~10% solution improvement and faster inference vs SOTA.
 
-**StruGene: Sample selection for syntactic disambiguation (Thesis)** (Dec 2024 – Apr 2025)  
+**StruGene: Sample selection for syntactic disambiguation (Thesis)** (Dec 2024 – Apr 2025)                                                                     
+Github Link: https://github.com/RuineLiu/Syntactic-Ambiguity-Resolution-Model
+
 Supervisor: Qingjiang Wang  
 Developed a Transformer-based model with structured features for CCG ambiguity; integrated phrase structure and semantic signals; improved accuracy to 99% with balanced labeling.
 
 ## Engineering Projects
 **FoodFounder Platform** (Jan 2025 – Present)  
+Github Link: https://github.com/jinchaoliang/foodFounder
+
 Leading development of a full-stack platform connecting food suppliers with restaurant entrepreneurs; focused on scalable architecture, database integration, and real-time analytics.
 
 **V-Trunk: Virtual Link Aggregation Software** (May 2022 – Dec 2023)  
+Github Link: https://github.com/miny1233/V-Trunk
+
 Implemented multi-interface coordination to aggregate wired/wireless bandwidth; nearly doubled throughput; granted software copyright (No. 2023SR0420713).
 
 ## Honors and Awards
