@@ -22,10 +22,6 @@ Github Link: https://github.com/RuineLiu/Airplane-Prediction-Delay-Reason-Analys
 Supervisor: Daniel Lopresti  (Lehigh University)
 Built a predictive modeling framework using historical flight, weather, and air traffic data; explored ML algorithms and feature engineering to improve accuracy and identify high-risk flights.
 
-**IPLO: Neural combinatorial optimization for large-scale traveler problems** (Mar 2024 – Jun 2025)  
-Supervisor: Hui Bu  
-Designed a hierarchical neural optimization framework for large-scale asymmetric TSP; partitioned instances with a GNN module and applied adaptive constructive solvers; achieved ~10% solution improvement and faster inference vs SOTA.
-
 **StruGene: Sample selection for syntactic disambiguation (Thesis)** (Dec 2024 – Apr 2025)                                                                     
 Github Link: https://github.com/RuineLiu/Syntactic-Ambiguity-Resolution-Model
 
